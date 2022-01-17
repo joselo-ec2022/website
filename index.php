@@ -33,5 +33,7 @@ switch($num1 > 2){
 break;
 }
 
+?>
+
 }
 ?>
