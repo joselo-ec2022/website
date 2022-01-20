@@ -1,0 +1,22 @@
+{
+    "name": "servernode",
+    "version": "0.0.1",
+    "description": "Es un ejemplo de servidor con Node",
+    "main": "index.js",
+
+    "scripts": {
+        "test": "echo \" Error: no test specified\" &&exit 1",
+        "start": "node servidor.js"
+    },
+
+    "keywords": [
+        "node",
+        "Nuevas-Tecnicas-Programacion"
+    ],
+    
+    "author": "Joselo",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0"
+    }
+}
